@@ -1,7 +1,14 @@
 ﻿body {
 }
 
-.Encabezado{
-    width: 100%;
+.Encabezado{    
     padding: 10px 10px 10px 10px;
+}
+
+.NavAjuste{
+    margin: 1vw 1vw;    
+}
+
+.NavAjuste > li:hover{
+    background-color:aqua;
 }
