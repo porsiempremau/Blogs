@@ -68,6 +68,8 @@
   <ItemGroup>
     <Content Include="css\estiloPersonalizado.css" />
     <Content Include="imagen\CaifanesLogo.jpg" />
+    <Content Include="imagen\Contenido\ElyGuerra.jpg" />
+    <Content Include="imagen\Contenido\SaulHernandez.jpg" />
     <Content Include="imagen\RedesSociales\IconFacebook.png" />
     <Content Include="imagen\RedesSociales\IconPinterest.png" />
     <Content Include="imagen\RedesSociales\IconTwiter.png" />

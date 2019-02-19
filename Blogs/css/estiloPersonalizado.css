@@ -12,3 +12,13 @@
 .NavAjuste > li:hover{
     background-color:aqua;
 }
+
+.ContenedorPrincipal{
+    margin-top: 2vw;
+    padding-top: 2vw;
+}
+
+.Contenido{
+    margin: 0px;
+    padding: 0px;
+}
