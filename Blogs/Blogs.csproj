@@ -67,6 +67,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\estiloPersonalizado.css" />
+    <Content Include="css\foundation\app.css" />
+    <Content Include="css\foundation\foundation.css" />
+    <Content Include="css\foundation\foundation.min.css" />
+    <Content Include="Gastronomia.html" />
     <Content Include="imagen\CaifanesLogo.jpg" />
     <Content Include="imagen\Contenido\ElyGuerra.jpg" />
     <Content Include="imagen\Contenido\SaulHernandez.jpg" />
@@ -75,6 +79,11 @@
     <Content Include="imagen\RedesSociales\IconTwiter.png" />
     <Content Include="imagen\RedesSociales\IconWhatsapp.png" />
     <Content Include="imagen\RedesSociales\IconYoutube.png" />
+    <Content Include="js\foundation\app.js" />
+    <Content Include="js\foundation\vendor\foundation.js" />
+    <Content Include="js\foundation\vendor\foundation.min.js" />
+    <Content Include="js\foundation\vendor\jquery.js" />
+    <Content Include="js\foundation\vendor\what-input.js" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -90,9 +99,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="js\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
