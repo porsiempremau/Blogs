@@ -70,21 +70,52 @@
     <Content Include="css\foundation\app.css" />
     <Content Include="css\foundation\foundation.css" />
     <Content Include="css\foundation\foundation.min.css" />
+    <Content Include="css\materialize\estiloPersonal.css" />
+    <Content Include="css\materialize\materialize.css" />
+    <Content Include="css\materialize\materialize.min.css" />
     <Content Include="Gastronomia.html" />
     <Content Include="imagen\CaifanesLogo.jpg" />
     <Content Include="imagen\Contenido\ElyGuerra.jpg" />
     <Content Include="imagen\Contenido\SaulHernandez.jpg" />
+    <Content Include="imagen\Gastronomia\cocinaFondo.jpg" />
+    <Content Include="imagen\Gastronomia\favoritos\ChileEnNogada.jpg" />
+    <Content Include="imagen\Gastronomia\favoritos\Lasagna.jpg" />
+    <Content Include="imagen\Gastronomia\favoritos\mole.jpg" />
+    <Content Include="imagen\Gastronomia\favoritos\pegelagarto.jpg" />
+    <Content Include="imagen\Gastronomia\favoritos\Pozole.jpg" />
+    <Content Include="imagen\Gastronomia\favoritos\TacoCamarones.jpg" />
+    <Content Include="imagen\Gastronomia\favoritos\TacosSuadero.jpg" />
     <Content Include="imagen\RedesSociales\IconFacebook.png" />
     <Content Include="imagen\RedesSociales\IconPinterest.png" />
     <Content Include="imagen\RedesSociales\IconTwiter.png" />
     <Content Include="imagen\RedesSociales\IconWhatsapp.png" />
     <Content Include="imagen\RedesSociales\IconYoutube.png" />
+    <Content Include="imagen\Turismo\Albert_Einstein.jpg" />
+    <Content Include="imagen\Turismo\Bosque2.jpg" />
+    <Content Include="imagen\Turismo\bosque.jpg" />
+    <Content Include="imagen\Turismo\Destinos\Cancun.jpg" />
+    <Content Include="imagen\Turismo\Destinos\CanonSumidero.jpg" />
+    <Content Include="imagen\Turismo\Destinos\cascada-cola-caballo-monterrey.jpg" />
+    <Content Include="imagen\Turismo\Destinos\ChichenItza.jpg" />
+    <Content Include="imagen\Turismo\Destinos\Cholula.jpg" />
+    <Content Include="imagen\Turismo\Destinos\desiertoSonora.jpg" />
+    <Content Include="imagen\Turismo\Destinos\prismas-balsamicos.jpg" />
+    <Content Include="imagen\Turismo\TurismoMex.png" />
     <Content Include="js\foundation\app.js" />
     <Content Include="js\foundation\vendor\foundation.js" />
     <Content Include="js\foundation\vendor\foundation.min.js" />
     <Content Include="js\foundation\vendor\jquery.js" />
     <Content Include="js\foundation\vendor\what-input.js" />
+    <Content Include="js\materialize\materialize.js" />
+    <Content Include="js\materialize\materialize.min.js" />
     <Content Include="packages.config" />
+    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -94,6 +125,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="Turismo.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

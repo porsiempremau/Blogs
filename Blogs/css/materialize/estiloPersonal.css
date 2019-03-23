@@ -1,0 +1,66 @@
+﻿
+
+/*Celulares*/
+@media only screen and (max-width: 600px) {
+  .imagenLogo {
+    float: left;
+    margin-left: 5vw;   
+    width: 20vw; 
+    }
+}
+
+/*Tablets y hacia arriba*/
+@media only screen and (min-width: 600px) {
+    .imagenFondo{
+        background-image: url(../../imagen/Turismo/Bosque2.jpg);
+        background-position:center;
+        background-size: cover;        
+    }
+
+    .imagenLogo {
+    float: left;
+    margin-left: 5vw;
+    box-shadow: 3px 3px 8px darkgrey;
+    position: absolute;
+    z-index: 5;
+    width: 15vw;
+    }
+
+    .rowSlogan{
+        margin-left:25vw;
+    }
+
+    .contenedorPagina{
+        margin-top: 80px;
+    }
+
+    .columnaRedesSociales{
+        margin-top: 50px;
+    }
+
+    .btn-redesSoc{
+        margin: 10px 5px;
+    }
+
+    .entrada{
+        margin-bottom: 1vw;
+    }
+
+    .entradaTitulo{
+        padding-left: 2vw; 
+    }    
+    .entradaTitulo h3{
+        margin-top: 0px;
+    }
+
+    .perfilAutor{
+        max-width: 90%;
+    }
+
+    .comentarioEntrada{
+        min-height: 50px;
+    }
+} 
+
+
+
